@@ -1,0 +1,96 @@
+-- VERSION_5
+-- START DISKCACHE_3
+A:\Desktop\EVE Alphabot\.metadata\.plugins\org.eclipse.core.resources\.projects\ocr_tools\com.python.pydev.analysis\v2_indexcache
+bot_pxl|1616560682539000000|A:\Desktop\EVE Alphabot\ocr_tools\bot_pxl.py
+uiltility|1616888210406000000|A:\Desktop\EVE Alphabot\ocr_tools\uiltility.py
+virtualmouse|1616477929500000000|A:\Desktop\EVE Alphabot\ocr_tools\virtualmouse.py
+boxes_init|1616639138144000000|A:\Desktop\EVE Alphabot\ocr_tools\boxes_init.py
+virtualkeyboard|1605569485463000000|A:\Desktop\EVE Alphabot\ocr_tools\virtualkeyboard.py
+bot_coor|1616482335975000000|A:\Desktop\EVE Alphabot\ocr_tools\bot_coor.py
+ocrbatch2|1616986280023403900|A:\Desktop\EVE Alphabot\ocr_tools\ocrbatch2.0.py
+graphic|1611379007348000000|A:\Desktop\EVE Alphabot\ocr_tools\graphic.py
+-- END DISKCACHE
+-- START DICTIONARY
+22
+2=uiltility
+12=boxes_init
+14=virtualkeyboard
+17=ocr.proccess_img
+18=ocr.__init__
+4=bot_coor
+19=Profile.__init__
+11=A:\Desktop\EVE Alphabot\ocr_tools\boxes_init.py
+15=Profile
+20=Profile.read_coords
+6=bot_pxl
+10=virtualmouse
+13=A:\Desktop\EVE Alphabot\ocr_tools\virtualkeyboard.py
+5=A:\Desktop\EVE Alphabot\ocr_tools\bot_pxl.py
+1=A:\Desktop\EVE Alphabot\ocr_tools\uiltility.py
+22=ocr.getPosition
+7=A:\Desktop\EVE Alphabot\ocr_tools\ocrbatch2.0.py
+8=ocrbatch2
+21=Profile.create_path
+3=A:\Desktop\EVE Alphabot\ocr_tools\bot_coor.py
+9=A:\Desktop\EVE Alphabot\ocr_tools\virtualmouse.py
+16=ocr
+-- END DICTIONARY
+-- START TREE 1
+32
+box|1|boxgrab!1^19#5*18@
+che|1|checkpath!3^106#5*34@
+cli|2|click_gunnery!3^64#5*34@click_missiles!3^73#5*34@
+clo|1|closeclient!3^99#5*34@
+coo|1|coor_dict!5^10#1*51@
+dra|1|drag_to_add!3^90#5*34@
+far|1|farm!3^160#5*34@
+fil|1|file!7^119#1*67@
+get|9|getscrrenres!3^12#5*34@getdata!1^55#5*18@getboxes!1^120#5*18@get_cords!1^26#5*18@getdatetimestr!1^47#5*18@getscrrenres!5^13#5*50@get_cords!5^30#5*50@get_cords!3^39#5*34@getscrrenres!1^32#5*18@
+gra|1|grabEvaluate!7^109#5*66@
+ima|1|ImagePathError!7^12#7*65@
+lef|4|leftclick!3^27#5*34@leftclick!9^4#5*82@lefthold!9^14#5*82@leftrelease!9^20#5*82@
+mai|1|main!11^111#5*98@
+mou|5|mousegrab!1^97#5*18@mousepos!3^36#5*34@mousegrabscan!1^73#5*18@mousePos!5^27#5*50@mousepos!1^52#5*18@
+neu|1|neut!1^183#5*18@
+nex|1|nextpage!3^82#5*34@
+ocr|1|ocr!7^16#7*65@
+pag|1|pagetop!3^45#5*34@
+pos|1|pos_coords!3^157#5*34@
+pre|3|pressAndHold!13^162#5*114@press!13^152#5*114@pressHoldRelease!13^172#5*114@
+pro|1|Profile!11^12#7*97@
+qui|1|quickEvaluate!7^98#5*66@
+rel|1|release!13^191#5*114@
+rep|1|reposition!1^161#5*18@
+rgb|2|rgbchecker!5^37#5*50@rgbchecker!1^40#5*18@
+rig|3|righthold!9^17#5*82@rightclick!9^9#5*82@rightrelease!9^23#5*82@
+rol|2|roll!9^28#5*82@roll!3^33#5*34@
+scr|3|screengrab!5^21#5*50@screengrab!3^21#5*34@screengrab!1^11#5*18@
+ski|1|skilltype_pos!3^140#5*34@
+sta|1|startgame!3^52#5*34@
+typ|1|typer!13^201#5*114@
+vk_|1|VK_CODE!13^148#1*115@
+-- END TREE
+-- START TREE 2
+21
+__i|2|__init__!15&11^13#9*98@__init__!16&7^17#9*66@
+bg_|2|bg_img!17&7^27#13*67@bg_img_path!18&7^18#9*67@
+che|1|checkPositions!16&7^90#9*66@
+com|1|comparison!16&7^37#9*66@
+coo|3|coords!19&11^18#9*99@coords!20&11^44#17*99@coordpath!21&11^33#13*99@
+cre|2|create_box!15&11^70#9*98@create_path!15&11^20#9*98@
+fil|1|filename!19&11^14#9*99@
+get|1|getPosition!16&7^51#9*66@
+ind|2|ind_positions_lst!22&7^54#9*67@ind_position_name_lst!22&7^55#9*67@
+max|1|maxvals_lst!22&7^53#9*67@
+met|1|method!18&7^20#9*67@
+pat|2|path!19&11^15#9*99@path!21&11^23#17*99@
+pro|1|proccess_img!16&7^24#9*66@
+rea|1|read_coords!15&11^39#9*98@
+res|1|results_lst!18&7^21#9*67@
+sav|1|save_coords!15&11^50#9*98@
+set|1|set_box!15&11^63#9*98@
+sho|2|showPositions!16&7^47#9*66@showCounts!16&7^84#9*66@
+sys|1|systems!19&11^17#9*99@
+tim|1|time!19&11^16#9*99@
+tpl|2|tpl_img_paths_lst!18&7^19#9*67@tpl_imgs_lst!17&7^25#9*67@
+-- END TREE

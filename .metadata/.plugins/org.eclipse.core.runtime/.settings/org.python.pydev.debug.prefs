@@ -1,0 +1,4 @@
+INTERACTIVE_CONSOLE_DEFAULT_INTERPRETER=python
+eclipse.preferences.version=1
+pydevconsole_sysin_color=255,255,255
+pydevconsole_sysout_color=255,255,255

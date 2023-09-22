@@ -1,0 +1,27 @@
+{'Gunnery' : 
+    {'page' : 
+        { 0 : 
+            {'roll' : 0,  'skill' : 
+                {'Controlled Bursts' : 11}},
+        1 : {'roll' : -1100,  'skill' :  
+                {'Gunnery' : 2, 'Large Energy Turret' : 8, 'Large Hybird Turret' : 9, 'Large Projectile Turret' : 11}},
+        2 : {'roll' : -1200,  'skill' :  
+                {'Medium Energy Turret' : 7, 'Medium Hybird Turret' : 8, 'Medium Projectile Turret' : 10}},
+        3 : {'roll' : -1200,  'skill' : 
+                {'Motion Prediction' : 1, 'Rapid Firing' : 2, 'Sharpshooter' : 3, 'Small Energy Turret' : 9, 'Small Hybird Turret' : 10, 'Small Projectile Turret' : 12,}},
+        4 : {'roll' : -1100,  'skill' : 
+                {'Surgical Strike' : 5, 'Trajectory Analysis' : 7}}}},
+'Missiles' :
+    {'page' :
+        { 0 : 
+            {'roll' : 0,  'skill' : 
+                {'Heavy Assault Missiles' : 8, 'Heavy Missiles' : 10, 'Light Missiles' : 12}},
+        1 : {'roll' : -650,  'skill' :  
+                {'Missile Bombardment' : 1, 'Missile Launcher Opreation' : 2, 'Rapid Launch' : 4, 'Rockets' : 6, 'Target Navigation Prediction' : 7}}}},
+'coords' :
+    {1 : (155,335), 2 : (533,335), 
+    3 : (155,358), 4 : (533,358), 
+    5 : (155,381), 6 : (533,381), 
+    7 : (155,413), 8 : (533,413), 
+    9 : (155,438), 10 : (533,438), 
+    11 : (155,460), 12 : (533,460)}}

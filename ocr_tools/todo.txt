@@ -1,0 +1,4 @@
+1. add HUD, locked target boxes
+2. add undock position
+3. add right click box position
+4. add left hold box

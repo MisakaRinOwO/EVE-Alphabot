@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;EVErBot&apos; to &apos;ocr_tools&apos;" description="Rename resource &apos;EVErBot&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/EVErBot" name="ocr_tools" stamp="1616910557918" updateReferences="true"/>
+</session>
