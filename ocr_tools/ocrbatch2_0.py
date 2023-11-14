@@ -105,6 +105,7 @@ def quickEvaluate(filename):
     bg_path = file +f'\\full_snap\\{filename}.png'
     ev = ocr(bg_path,tmpl_path_lst)
     ev.getPosition()
+    ev.showPositions()
 
 def grabEvaluate():
     global ev
